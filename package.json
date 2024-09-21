@@ -1,6 +1,6 @@
 {
   "name": "is-nodejs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if current js-runtime is node.js",
   "main": "index.js",
   "module": "index.module.js",
